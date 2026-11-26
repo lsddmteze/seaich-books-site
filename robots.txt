@@ -33,4 +33,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://seaich-books.vercel.app/sitemap.xml
+Sitemap: https://eugeneseaich.com/sitemap.xml
