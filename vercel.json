@@ -1,0 +1,345 @@
+{
+ "cleanUrls": true,
+ "trailingSlash": false,
+ "headers": [
+  {
+   "source": "/img/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=31536000, immutable"
+    }
+   ]
+  },
+  {
+   "source": "/assets/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=3600"
+    }
+   ]
+  },
+  {
+   "source": "/assets/fonts/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=31536000, immutable"
+    },
+    {
+     "key": "Access-Control-Allow-Origin",
+     "value": "*"
+    }
+   ]
+  },
+  {
+   "source": "/(.*)",
+   "headers": [
+    {
+     "key": "X-Content-Type-Options",
+     "value": "nosniff"
+    },
+    {
+     "key": "Referrer-Policy",
+     "value": "strict-origin-when-cross-origin"
+    },
+    {
+     "key": "Permissions-Policy",
+     "value": "camera=(), microphone=(), geolocation=()"
+    },
+    {
+     "key": "X-Frame-Options",
+     "value": "SAMEORIGIN"
+    }
+   ]
+  }
+ ],
+ "redirects": [
+  {
+   "source": "/the-far-off-land",
+   "destination": "/far-off-land",
+   "permanent": true
+  },
+  {
+   "source": "/book",
+   "destination": "/far-off-land/inside-the-book",
+   "permanent": true
+  },
+  {
+   "source": "/the-book",
+   "destination": "/far-off-land/inside-the-book",
+   "permanent": true
+  },
+  {
+   "source": "/nine-sessions",
+   "destination": "/far-off-land/nine-sessions",
+   "permanent": true
+  },
+  {
+   "source": "/what-he-got-right",
+   "destination": "/far-off-land/what-he-got-right",
+   "permanent": true
+  },
+  {
+   "source": "/timeline",
+   "destination": "/far-off-land/psychedelic-therapy-history",
+   "permanent": true
+  },
+  {
+   "source": "/psychedelic-therapy-history",
+   "destination": "/far-off-land/psychedelic-therapy-history",
+   "permanent": true
+  },
+  {
+   "source": "/consciousness-research",
+   "destination": "/far-off-land/consciousness-research",
+   "permanent": true
+  },
+  {
+   "source": "/sample",
+   "destination": "/far-off-land/sample-chapter",
+   "permanent": true
+  },
+  {
+   "source": "/excerpt",
+   "destination": "/far-off-land/sample-chapter",
+   "permanent": true
+  },
+  {
+   "source": "/sample-chapter",
+   "destination": "/far-off-land/sample-chapter",
+   "permanent": true
+  },
+  {
+   "source": "/press",
+   "destination": "/far-off-land/press",
+   "permanent": true
+  },
+  {
+   "source": "/glossary",
+   "destination": "/far-off-land/glossary",
+   "permanent": true
+  },
+  {
+   "source": "/course-adoption",
+   "destination": "/far-off-land/course-adoption",
+   "permanent": true
+  },
+  {
+   "source": "/author",
+   "destination": "/eugene-seaich",
+   "permanent": true
+  },
+  {
+   "source": "/about-the-author",
+   "destination": "/eugene-seaich",
+   "permanent": true
+  },
+  {
+   "source": "/about-eugene-seaich",
+   "destination": "/eugene-seaich",
+   "permanent": true
+  },
+  {
+   "source": "/about-eric-hendrickson",
+   "destination": "/eric-hendrickson",
+   "permanent": true
+  },
+  {
+   "source": "/understanding-mormonism-faq",
+   "destination": "/understanding-mormonism/faq",
+   "permanent": true
+  },
+  {
+   "source": "/understanding-mormonism-chapters",
+   "destination": "/understanding-mormonism/chapters",
+   "permanent": true
+  },
+  {
+   "source": "/editorial-method",
+   "destination": "/understanding-mormonism/editorial-method",
+   "permanent": true
+  },
+  {
+   "source": "/study-resources",
+   "destination": "/understanding-mormonism/study-resources",
+   "permanent": true
+  },
+  {
+   "source": "/media",
+   "destination": "/understanding-mormonism/press",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/annotation-methodology",
+   "destination": "/far-off-land/critical-edition",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/1959-typescript",
+   "destination": "/far-off-land/critical-edition",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/historical-context",
+   "destination": "/far-off-land/psychedelic-therapy-history",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/timeline",
+   "destination": "/far-off-land/psychedelic-therapy-history",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/reviews",
+   "destination": "/far-off-land",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/media-kit",
+   "destination": "/far-off-land/press",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/classroom",
+   "destination": "/far-off-land/course-adoption",
+   "permanent": true
+  },
+  {
+   "source": "/far-off-land/errata",
+   "destination": "/editorial-standards",
+   "permanent": true
+  },
+  {
+   "source": "/correction-policy",
+   "destination": "/editorial-standards",
+   "permanent": true
+  },
+  {
+   "source": "/about/eugene-seaich",
+   "destination": "/eugene-seaich",
+   "permanent": true
+  },
+  {
+   "source": "/about/eric-hendrickson",
+   "destination": "/eric-hendrickson",
+   "permanent": true
+  },
+  {
+   "source": "/about/seaich-legacy-publications",
+   "destination": "/about",
+   "permanent": true
+  },
+  {
+   "source": "/newsletter",
+   "destination": "/far-off-land/sample-chapter",
+   "permanent": true
+  },
+  {
+   "source": "/newsletter/:path*",
+   "destination": "/far-off-land/sample-chapter",
+   "permanent": true
+  },
+  {
+   "source": "/email/:path*",
+   "destination": "/far-off-land/sample-chapter",
+   "permanent": true
+  },
+  {
+   "source": "/buy/:path*",
+   "destination": "/buy",
+   "permanent": true
+  },
+  {
+   "source": "/retailers",
+   "destination": "/buy",
+   "permanent": true
+  },
+  {
+   "source": "/where-to-buy",
+   "destination": "/buy",
+   "permanent": true
+  },
+  {
+   "source": "/shipping",
+   "destination": "/buy",
+   "permanent": true
+  },
+  {
+   "source": "/returns",
+   "destination": "/buy",
+   "permanent": true
+  },
+  {
+   "source": "/sitemap",
+   "destination": "/site-map",
+   "permanent": true
+  },
+  {
+   "source": "/events",
+   "destination": "/far-off-land/press",
+   "permanent": true
+  },
+  {
+   "source": "/terms",
+   "destination": "/privacy",
+   "permanent": true
+  },
+  {
+   "source": "/key-concepts",
+   "destination": "/far-off-land/key-concepts",
+   "permanent": true
+  },
+  {
+   "source": "/reading-guide",
+   "destination": "/far-off-land/reading-guide",
+   "permanent": true
+  },
+  {
+   "source": "/book-clubs",
+   "destination": "/far-off-land/book-clubs",
+   "permanent": true
+  },
+  {
+   "source": "/bibliography",
+   "destination": "/far-off-land/bibliography",
+   "permanent": true
+  },
+  {
+   "source": "/publisher",
+   "destination": "/about",
+   "permanent": true
+  },
+  {
+   "source": "/ancient-texts/series",
+   "destination": "/ancient-texts",
+   "permanent": true
+  },
+  {
+   "source": "/ebooks",
+   "destination": "/ancient-texts",
+   "permanent": true
+  },
+  {
+   "source": "/article/deuteronomy-32-8",
+   "destination": "/ancient-texts/questions/deuteronomy-32-8",
+   "permanent": true
+  },
+  {
+   "source": "/ancient-texts/questions",
+   "destination": "/ancient-texts",
+   "permanent": true
+  },
+  {
+   "source": "/site-index",
+   "destination": "/site-map",
+   "permanent": true
+  },
+  {
+   "source": "/faq",
+   "destination": "/ancient-texts/faq",
+   "permanent": true
+  }
+ ]
+}

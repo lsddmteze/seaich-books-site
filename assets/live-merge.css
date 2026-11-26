@@ -1,0 +1,95 @@
+.hero h1,.page-hero h1 {font-size:clamp(2.7rem,6vw,6.4rem); line-height:.95; letter-spacing:-.052em; margin:0}
+.kicker,.eyebrow {font:800 .75rem/1.2 var(--ui); letter-spacing:.15em; text-transform:uppercase; margin:0 0 14px}
+.lede {font-size:clamp(1.08rem,1.5vw,1.3rem); max-width:760px; margin:26px 0 15px}
+.section {max-width:1180px; margin:auto; padding:82px 24px}
+.section.compact {padding-top:58px; padding-bottom:58px}
+.section-head {display:grid; grid-template-columns:.72fr 1.28fr; gap:56px; align-items:start; margin-bottom:39px}
+.section-head h2,.title-xl {font-size:clamp(2.1rem,4vw,4.5rem); line-height:1; letter-spacing:-.045em; margin:0}
+.section-head p {margin:3px 0 0; font-size:1.06rem; max-width:720px}
+.page-hero {}
+.page-hero .section {padding-top:64px; padding-bottom:66px}
+.page-hero h1 {max-width:930px}
+.page-hero .lede {max-width:850px}
+.breadcrumbs {font:650 .78rem/1.4 var(--ui); margin-bottom:24px}
+.breadcrumbs a {}
+.content {max-width:860px}
+.content.wide {max-width:1180px}
+.content h2 {font-size:clamp(1.9rem,3.4vw,3rem); line-height:1.06; margin:2em 0 .55em}
+.content h2:first-child {margin-top:0}
+.content h3 {font-size:1.42rem; margin:1.6em 0 .35em}
+.content p,.content li {font-size:1.04rem}
+.lead {font-size:1.22rem!important}
+.levels {display:grid; grid-template-columns:repeat(4,1fr); gap:1px; border:1px solid var(--line); margin:28px 0}
+.level {padding:27px 22px}
+.claim-badge {display:inline-flex; align-items:center; gap:.45em; font:800 .76rem/1 var(--ui); padding:.55em .8em; border-radius:999px; border:1px solid; text-decoration:none; margin-bottom:18px}
+.claim-badge:before {content:""; width:.58em; height:.58em; border-radius:50%; background:currentColor}
+.level h2,.level h3 {font-size:1.35rem; margin:0 0 8px}
+.level p {font-size:.92rem; margin:0}
+.metadata-kit h2 {margin-top:1.9em}
+.metadata-kit blockquote {margin:22px 0; padding:24px 28px; border-left:3px solid var(--gold); font-size:1.18rem}
+.code-block {max-width:100%; margin:18px 0 26px; padding:22px; border-top:4px solid var(--gold); font:500 .86rem/1.58 ui-monospace,SFMono-Regular,Consolas,monospace; white-space:pre-wrap; overflow-wrap:anywhere; word-break:break-word}
+.metadata-kit .notice {margin-bottom:0}
+.article-page .article-hero {padding:3rem 0 4rem}
+.article-hero .hero-quote {max-width:690px; margin:1.25rem 0 0; padding-left:1rem; border-left:3px solid var(--gold2); font:600 1.35rem/1.45 var(--h)}
+.article-hero .hero-quote cite {display:block; margin-top:.4rem; font:500 .82rem/1.5 var(--ui); font-style:normal}
+.article-wrap {max-width:780px; margin:0 auto; padding-left:1.25rem; padding-right:1.25rem}
+.article-hero h1 {font-size:clamp(2.2rem,5vw,3.2rem); line-height:1.15; letter-spacing:-.025em; margin:.4rem 0 1rem}
+.article-meta {font:500 .85rem/1.55 var(--ui)}
+.article-body {padding-top:0; padding-bottom:70px}
+.answer-box {border-left:5px solid var(--gold2); padding:1.4rem 1.6rem; margin:-2.5rem 0 2rem; box-shadow:0 12px 30px rgba(15,30,58,.12); border-radius:0 10px 10px 0; position:relative}
+.answer-box h2 {margin:0 0 .55rem; font:800 .75rem/1.2 var(--ui); letter-spacing:.15em; text-transform:uppercase}
+.answer-box p {margin:0}
+.answer-box>.claim-badge {margin:1rem 0 0}
+.article-toc {border-radius:10px; padding:1rem 1.3rem; font:500 .92rem/1.6 var(--ui)}
+.article-toc ol {margin:.4rem 0 0; padding-left:1.2rem}
+.article-toc a {text-decoration:none}
+.article-body h2 {font-size:clamp(1.7rem,3vw,2.1rem); line-height:1.15; margin:2.8rem 0 .6rem}
+.article-body h3 {font-size:1.35rem; line-height:1.2; margin:1.6rem 0 .3rem}
+.article-body blockquote {margin:1.2rem 0; padding:1rem 1.3rem; border-left:4px solid var(--gold2); font-size:1.12rem}
+.article-body blockquote cite {display:block; font:500 .85rem var(--ui); font-style:normal; margin-top:.4rem}
+.article-table {width:100%; border-collapse:collapse; font-size:.95rem; margin:1rem 0}
+.article-table th,.article-table td {border-bottom:1px solid var(--line); padding:.65rem .75rem; text-align:left; vertical-align:top}
+.article-table th {font:600 .8rem var(--ui); letter-spacing:.05em}
+.heb {font-size:1.15rem; direction:rtl; unicode-bidi:bidi-override}
+.article-views {display:grid; grid-template-columns:repeat(3,1fr); gap:.9rem; margin:1rem 0}
+.article-view {border:1px solid var(--line); border-radius:10px; padding:1rem; font-size:.95rem}
+.article-view h3 {margin:0 0 .3rem; font-size:1.25rem}
+.skeptic-box {border:1px solid var(--line); border-left:5px solid #8a8a8a; border-radius:10px; padding:1.2rem 1.4rem; margin:1.5rem 0}
+.article-cta {display:grid; grid-template-columns:150px 1fr; gap:1.4rem; align-items:center; border-radius:14px; padding:1.6rem; margin:2.5rem 0}
+.article-cta img {border-radius:4px; box-shadow:0 10px 24px rgba(0,0,0,.4)}
+.article-cta h3 {margin:0 0 .4rem}
+.article-related {display:grid; grid-template-columns:1fr 1fr; gap:.9rem}
+.article-related a {border:1px solid var(--line); border-radius:10px; padding:1rem; text-decoration:none; font-size:1.2rem; line-height:1.25}
+.article-related a:hover {}
+.article-faq details {border:1px solid var(--line); border-radius:8px; padding:.9rem 1.1rem; margin:.6rem 0}
+.article-faq summary {font-weight:600; cursor:pointer}
+.article-byline {border-top:1px solid var(--line); margin-top:3rem; padding:1rem 0 0; font-size:.9rem}
+.refs {font-size:.92rem}
+.hero h1,.page-hero h1 {font-size:clamp(3rem,6vw,6rem); line-height:.98; letter-spacing:.01em; text-transform:uppercase}
+.kicker,.eyebrow {font-size:.7rem; letter-spacing:.2em; margin-bottom:17px}
+.hero .kicker {}
+.lede {font-size:clamp(1.04rem,1.45vw,1.22rem); line-height:1.7}
+.hero .lede {margin:28px auto 16px; max-width:810px}
+.section {max-width:1280px; padding:100px 30px}
+.section.compact {padding-top:82px; padding-bottom:82px}
+.section-head {display:block; text-align:center; max-width:860px; margin:0 auto 52px}
+.section-head h2,.title-xl {font-size:clamp(2.25rem,4.5vw,4.6rem); line-height:1.02; letter-spacing:.01em; text-transform:uppercase}
+.section-head p {margin:22px auto 0; font-size:1.08rem}
+.page-hero {position:relative; overflow:hidden}
+.page-hero:after {content:""; position:absolute; width:520px; height:520px; border:1px solid rgba(121,182,255,.15); border-radius:50%; right:-210px; top:-285px}
+.page-hero .section {padding-top:80px; padding-bottom:86px; position:relative; z-index:1}
+.page-hero h1 {max-width:1050px; font-size:clamp(2.6rem,5.2vw,5.3rem)}
+.breadcrumbs {}
+.breadcrumbs a {}
+.levels {gap:14px; border:0}
+.level {border:1px solid #23364b; padding:28px 24px}
+.claim-badge {border-radius:2px; text-transform:uppercase; letter-spacing:.06em}
+.article-hero {border-top:1px solid rgba(121,182,255,.2)}
+.article-hero h1 {text-transform:uppercase; letter-spacing:.01em}
+.answer-box {border-left-color:var(--gold); border-radius:0; box-shadow:0 12px 30px rgba(5,12,22,.12)}
+.article-toc,.article-view,.skeptic-box,.article-related a,.article-faq details {border-radius:2px}
+.article-table th {}
+.article-cta {border:1px solid rgba(121,182,255,.18); border-radius:2px}
+.code-block {border-top-color:var(--gold)}
+.article-cta img{max-width:150px;height:auto}
+.live-merge-note{font-size:.9em;opacity:.85}
