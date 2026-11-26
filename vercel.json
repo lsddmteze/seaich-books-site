@@ -247,7 +247,7 @@
    "permanent": true
   },
   {
-   "source": "/buy/:path*",
+   "source": "/buy/:path+",
    "destination": "/buy",
    "permanent": true
   },
