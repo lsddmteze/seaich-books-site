@@ -321,11 +321,13 @@
     if (window.SITE_EXT) return window.SITE_BASE + (slug || "index") + ".html" + hash;
     return "/" + slug + hash;
   }
+  var FOLSITE = /(^|\.)thefaroffland\.com$/.test(location.hostname) || /^\/(far-off-land|resources)(\/|\.html|$)/.test(location.pathname);
   function search(q) {
     q = q.trim().toLowerCase(); sres.innerHTML = "";
     if (q.length < 2) return;
     var words = q.split(/\s+/), hits = [];
     (window.SEARCH_INDEX || []).forEach(function (it) {
+      if (/^(far-off-land|resources)(\/|$)/.test(it.s || "") !== FOLSITE) return;
       var hay = (it.t + " " + it.d + " " + (it.k || "")).toLowerCase(), score = 0;
       words.forEach(function (w) { if (hay.indexOf(w) > -1) score += (it.t.toLowerCase().indexOf(w) > -1 ? 3 : 1); else score -= 99; });
       if (score > 0) hits.push([score, it]);
@@ -337,7 +339,7 @@
       a.firstChild.textContent = h[1].t; a.lastChild.textContent = h[1].d;
       li.appendChild(a); sres.appendChild(li);
     });
-    if (!hits.length) { var li = document.createElement("li"); li.className = "none"; li.textContent = "No matches. Try “journal,” “Huxley,” “grace” or “DMN.”"; sres.appendChild(li); }
+    if (!hits.length) { var li = document.createElement("li"); li.className = "none"; li.textContent = FOLSITE ? "No matches. Try “journal,” “Huxley,” “memory” or “DMN.”" : "No matches. Try “grace,” “temple,” “apostasy” or “Nag Hammadi.”"; sres.appendChild(li); }
   }
   function openSearch() {
     if (!sd) return;

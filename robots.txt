@@ -1,4 +1,4 @@
-# Seaich Legacy Publications — search engines and AI answer engines welcome
+# eugeneseaich.com and thefaroffland.com — search engines and AI answer engines welcome
 User-agent: *
 Allow: /
 
@@ -34,3 +34,4 @@ User-agent: CCBot
 Allow: /
 
 Sitemap: https://eugeneseaich.com/sitemap.xml
+Sitemap: https://thefaroffland.com/sitemap-far-off-land.xml

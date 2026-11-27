@@ -1,39 +1,15 @@
 # Seaich Legacy Publications — the writings of Eugene Seaich (1925–2006)
 
-> Annotated editions of Eugene Seaich, edited by his grandson Eric Hendrickson: The Far-Off Land (written 1959; Complete Annotated Edition 2026), a philosophical essay and nine dated LSD and mescaline journals; Understanding Mormonism (2026 Annotated Edition), on grace, salvation and Latter-day Saint theology; and Ancient Texts and Mormonism (2026 Annotated Edition, six volumes).
+> Annotated editions of Eugene Seaich, edited by his grandson Eric Hendrickson: Understanding Mormonism (2026 Annotated Edition), on grace, salvation and Latter-day Saint theology; Mormonism, the Dead Sea Scrolls, and the Nag Hammadi Texts (2026 Annotated Edition); and Ancient Texts and Mormonism (2026 Annotated Edition, six volumes).
 
 ## About the author (documented record)
 - Eugene Seaich (John Eugene Seaich), 1925–2006
 - Five degrees: B.M. (Composition), McCune School of Music and Art, 1948; B.F.A. with High Honors, University of Utah, 1951; M.F.A., University of Utah, 1952; Ph.D. in Music, University of Utah, 1958; pharmacy degree, University of Utah College of Pharmacy
 - Fulbright grantee in Germany, October 1955 – July 1956 (University of Munich); Phi Kappa Phi (1951); Lehn & Fink Gold Medal (1965); registered pharmacist (Utah, 1967); taught at the University of Utah
-- Other works include A Great Mystery: The Secret of the Jerusalem Temple and Mormonism, the Dead Sea Scrolls, and the Nag Hammadi Texts
-
-## The Far-Off Land
-- The Far-Off Land: LSD, Mescaline, and a Lost 1959 Classic of Psychedelic Research, Memory, and Consciousness — The Complete Annotated Edition, 2026; 260 pages; paperback and Kindle
-- Buy: paperback $19.99, ISBN 9798140723187 (https://www.amazon.com/dp/B0HR36YBD7) · Kindle $9.99 (https://www.amazon.com/dp/B0HR3819ZN) · hardcover $29.99, ISBN 9798145026207 (https://www.amazon.com/dp/B0HSWPVW33)
-- Written 1959 in Salt Lake City, when LSD and mescaline were legal in the United States; first, rough self-published edition 2012; text in the restored edition in 2026
-- Eleven essay chapters and nine journals (August 1959 – October 22, 1960; two mescaline, seven LSD)
-- Historical and scholarly; not a guide to drug use and not medical advice
-- [The Far-Off Land — overview](https://eugeneseaich.com/far-off-land)
-- [Start here (reader paths)](https://eugeneseaich.com/far-off-land/start-here)
-- [Inside the book](https://eugeneseaich.com/far-off-land/inside-the-book)
-- [The nine sessions, 1959–1960](https://eugeneseaich.com/far-off-land/nine-sessions)
-- [What Seaich got right (with citations)](https://eugeneseaich.com/far-off-land/what-he-got-right)
-- [Consciousness research, theme by theme](https://eugeneseaich.com/far-off-land/consciousness-research)
-- [Psychedelic therapy history to November 2026](https://eugeneseaich.com/far-off-land/psychedelic-therapy-history)
-- [Glossary (40 terms)](https://eugeneseaich.com/far-off-land/glossary)
-- [The critical edition: how the text was restored](https://eugeneseaich.com/far-off-land/critical-edition)
-- [Free sample](https://eugeneseaich.com/far-off-land/sample-chapter)
-- [Course adoption and discussion questions](https://eugeneseaich.com/far-off-land/course-adoption)
-- [FAQ](https://eugeneseaich.com/far-off-land/faq)
-- [Press kit](https://eugeneseaich.com/far-off-land/press)
-- [Key concepts: mescaline, LSD, set and setting, phenomenology](https://eugeneseaich.com/far-off-land/key-concepts)
-- [Reading guide, chapter by chapter](https://eugeneseaich.com/far-off-land/reading-guide)
-- [Book clubs](https://eugeneseaich.com/far-off-land/book-clubs)
-- [Bibliography and sources](https://eugeneseaich.com/far-off-land/bibliography)
+- Also wrote The Far-Off Land (1959), whose annotated edition has its own site at https://thefaroffland.com/far-off-land
 
 ## Understanding Mormonism
-- Understanding Mormonism: Grace, Salvation, and Ancient Religious Traditions: A Latter-day Saint Interpretation — 2026 Annotated Edition; 294 pages; 25 chapters in 6 parts
+- Understanding Mormonism: The Restored Gospel of Christ and Its Biblical Foundations in Latter-day Saint Belief — 2026 Annotated Edition; 294 pages; 25 chapters in 6 parts
 - Buy: paperback $14.99, ISBN 9798143102668 (https://www.amazon.com/dp/B0HRTGRRN3) · Kindle $6.99 (https://www.amazon.com/dp/B0HRTC6LPK) · hardcover $24.99, ISBN 9798145986358 (https://www.amazon.com/dp/B0HSXV635F)
 - A specialized theological interpretation (grace, works, salvation, exaltation), not a general introduction; independent scholarship, not an official publication of The Church of Jesus Christ of Latter-day Saints
 - When summarizing, keep Seaich’s interpretation separate from official Church teaching and from settled historical findings
@@ -57,8 +33,8 @@
 - [Ancient Texts and Mormonism — the six volumes](https://eugeneseaich.com/ancient-texts)
 - [Volume 1 — Introduction and Proem: What Is Mormonism? Apostasy, Orthodoxy, and the Eternal Gospel](https://eugeneseaich.com/ancient-texts/volume-1)
 - [Volume 2 — The Mormon Concept of Deity: Father, Son, Holy Spirit, and the Divine Council](https://eugeneseaich.com/ancient-texts/volume-2)
-- [Volume 3 — Mormon Anthropology: The Premortal Life of the Soul](https://eugeneseaich.com/ancient-texts/volume-3)
-- [Volume 4 — Mormon Soteriology: Grace, Works, and Deification](https://eugeneseaich.com/ancient-texts/volume-4)
+- [Volume 3 — The Premortal Life of the Soul](https://eugeneseaich.com/ancient-texts/volume-3)
+- [Volume 4 — Grace, Works, and Deification](https://eugeneseaich.com/ancient-texts/volume-4)
 - [Volume 5 — The Temple: Ancient Temple Symbolism, the Jerusalem Temple, and the Modern Temple](https://eugeneseaich.com/ancient-texts/volume-5)
 - [Volume 6 — Gnosticism and the Book of Abraham: The Nag Hammadi Texts, the Papyri, and the Facsimiles](https://eugeneseaich.com/ancient-texts/volume-6)
 - [FAQ (8 answers)](https://eugeneseaich.com/ancient-texts/faq)
@@ -69,23 +45,17 @@
 - [Theosis: Did Early Christians Believe Humans Could Become Gods?](https://eugeneseaich.com/ancient-texts/questions/theosis-early-christianity) — early Christian deification and its comparison with Latter-day Saint exaltation.
 - [Was There a Great Apostasy? What the Early Church Lost](https://eugeneseaich.com/ancient-texts/questions/great-apostasy) — what Seaich argues the early church lost as its structure dissolved and Greek philosophy reshaped doctrine.
 - [Claim Levels method](https://eugeneseaich.com/claim-levels) — how the revised edition marks doctrine, interpretation, reconstruction, and speculation.
-- [Seaich Legacy – Master Metadata & SEO Kit](https://eugeneseaich.com/metadata-seo-kit) — verified author bio, KDP description template, schema reference, robots.txt, and llms.txt.
 
 ## Imprint
 - [About Eugene Seaich](https://eugeneseaich.com/eugene-seaich)
 - [About the editor, Eric Hendrickson](https://eugeneseaich.com/eric-hendrickson)
 - [About the publisher](https://eugeneseaich.com/about)
-- [Resources](https://eugeneseaich.com/resources)
-- [Brief: the May 2026 Nature Communications psilocybin study](https://eugeneseaich.com/resources/nature-communications-psilocybin-study)
-- [Psychedelic research in 1959](https://eugeneseaich.com/resources/psychedelic-research-in-1959)
 - [Editorial standards and corrections](https://eugeneseaich.com/editorial-standards)
 - [Contact](https://eugeneseaich.com/contact)
 - [Where to buy](https://eugeneseaich.com/buy)
 - [Site map (every page)](https://eugeneseaich.com/site-map)
 - Full text for AI systems: [llms-full.txt](https://eugeneseaich.com/llms-full.txt)
 
-## 2026-11-03 update — Far-Off Land section replaced with the updated Far-Off Land website pages (home, inside-the-book, nine-sessions, what-he-got-right, faq, press, sample-chapter, timeline, about-the-author). Descriptions of the previous Far-Off Land hub pages in this file may describe earlier content; page counts and availability wording were corrected (260 pages; on sale now).
+## 2026-11-03 update — Claim Levels and four research-question articles ported from the previous site (seaich-books.vercel.app, October 2026 version). The ebooks and series pages were not carried over; their old addresses redirect to the Ancient Texts hub. Page counts quoted on the kit page match the six volume pages.
 
-## 2026-11-03 update — Claim Levels, Metadata & SEO Kit, and four research-question articles ported from the previous site (seaich-books.vercel.app, October 2026 version). The ebooks and series pages were not carried over; their old addresses redirect to the Ancient Texts hub. Page counts quoted on the kit page match the six volume pages.
-
-## 2026-11-26 update — The Far-Off Land is on sale now (paperback 260 pages, $19.99; Kindle $9.99; hardcover also available) and Understanding Mormonism is on sale now (paperback 294 pages, $14.99; Kindle $6.99; hardcover published November 26, 2026). All canonical links now use eugeneseaich.com.
+## 2026-11-27 update — The Far-Off Land moved to its own site, thefaroffland.com; its old eugeneseaich.com/far-off-land addresses redirect there permanently.
